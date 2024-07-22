@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<a href="https://imgur.com/XXP9pkN">Link to GIF</a>
+<a href="https://imgur.com/a/IB0TKnW">Link to GIF</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
