@@ -188,3 +188,5 @@ firstGameContainer.appendChild(displayFirst);
 const displaySecond = document.createElement('p');
 displaySecond.textContent = `${secondGame.name}`;
 secondGameContainer.appendChild(displaySecond);
+
+showAllGames(GAMES_JSON);
